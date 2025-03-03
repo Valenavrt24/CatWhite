@@ -13,6 +13,4 @@ class CustomBuildHook(BuildHookInterface):
             cmd.finalize_options()
             cmd.run()
 print("hola mundo")
-g= 45
-if g<50
-    g="Chao mundo"
+print("Chao mundo")
