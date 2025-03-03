@@ -12,3 +12,7 @@ class CustomBuildHook(BuildHookInterface):
             cmd.directory = os.path.join('mkdocs', 'themes', theme, 'locales')
             cmd.finalize_options()
             cmd.run()
+print("hola mundo")
+g= 45
+if g<50
+    g="Chao mundo"
